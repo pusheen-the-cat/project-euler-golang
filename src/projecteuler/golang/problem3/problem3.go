@@ -10,7 +10,8 @@ package main
 
 import (
 	"fmt"
-	"projecteuler/golang/util"
+
+	"github.com/pusheen-the-cat/project-euler-golang/projecteuler/golang/util"
 )
 
 func main() {
