@@ -13,3 +13,9 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+#gopath related
+bin
+pkg
+src/github*
+src/golang*
