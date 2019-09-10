@@ -66,7 +66,4 @@ func main() {
 
 	fmt.Println(best)
 	fmt.Println(bestInput)
-
-	newline := []rune("\n")
-	fmt.Println(newline)
 }
